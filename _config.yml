@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Carles Domingo-Enrich"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Carles Domingo-Enrich"
 description              : &description "personal description"
 url                      : https://cdenrich.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

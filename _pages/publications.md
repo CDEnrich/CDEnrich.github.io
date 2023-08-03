@@ -7,27 +7,30 @@ author_profile: true
 
 ## Preprints
 
-* [Length Generalization in Arithmetic Transformers](https://arxiv.org/abs/2306.15400)
+* [Length Generalization in Arithmetic Transformers](https://arxiv.org/abs/2306.15400)\n
   Samy Jelassi, Stéphane d'Ascoli, **Carles Domingo-Enrich**, Yuhuai Wu, Yuanzhi Li, François Charton.
   Jun. 2023
-* [Open Problem: Learning with Variational Objectives on Measures](https://arxiv.org/abs/2306.11928)
+* [Open Problem: Learning with Variational Objectives on Measures](https://arxiv.org/abs/2306.11928)\n
   Vivien Cabannes, **Carles Domingo-Enrich**.
   Jun. 2023
-* [Computing the variance of shuffling stochastic gradient algorithms via power spectral density analysis](https://arxiv.org/abs/2206.00632)
+* [Computing the variance of shuffling stochastic gradient algorithms via power spectral density analysis](https://arxiv.org/abs/2206.00632)\n
 	**Carles Domingo-Enrich**.
 	Jun. 2022
-* [Auditing differential privacy in high dimensions with the kernel quantum Rényi divergence](https://arxiv.org/abs/2205.13941)
+* [Auditing differential privacy in high dimensions with the kernel quantum Rényi divergence](https://arxiv.org/abs/2205.13941)\n
 	**Carles Domingo-Enrich**, Youssef Mroueh.
 	May 2022
-* [Simultaneous transport evolution for minimax equilibria on measures](https://arxiv.org/abs/2202.06460)
+* [Simultaneous transport evolution for minimax equilibria on measures](https://arxiv.org/abs/2202.06460)\n
 	**Carles Domingo-Enrich**, Joan Bruna.
 	Feb. 2022
-* [Dual training of energy-based models with overparametrized shallow neural networks](https://arxiv.org/abs/2107.05134)
+* [Dual training of energy-based models with overparametrized shallow neural networks](https://arxiv.org/abs/2107.05134)\n
 	**Carles Domingo-Enrich**, Alberto Bietti, Marylou Gabrié, Joan Bruna, Eric Vanden-Eijnden.
 	July 2021
 
 ## Publications
 
+* [Neural Optimal Transport with Lagrangian Costs](https://openreview.net/pdf?id=myb0FKB8C9) 
+Aram-Alexandre Pooladian, **Carles Domingo-Enrich**, Ricky Chen, Brandon Amos. 
+ICML Workshop on New Frontiers in Learning, Control, and Dynamical Systems, 2023
 * [An explicit expansion of the Kullback-Leibler divergence along its Fisher-Rao gradient flow](https://arxiv.org/abs/2302.12229)
 	**Carles Domingo-Enrich**, Aram-Alexandre Pooladian.
 	TMLR 2023
