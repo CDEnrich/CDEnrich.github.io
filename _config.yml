@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Carles\n Domingo-Enrich"
-  avatar           : "https://github.com/CDEnrich/CDEnrich.github.io/blob/master/images/profile.png" #"images/profile.png"
+  name             : "Carles<br> Domingo-Enrich"
+  avatar           : "/blob/master/images/profile.png" #"images/profile.png"
   bio              : "PhD student in Computer Science at NYU Courant, Visiting Researcher at META FAIR Labs, working on generative modeling and statistics"
   location         : "New York City"
   employer         :
