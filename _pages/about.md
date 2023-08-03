@@ -40,7 +40,7 @@ My email address is cd2754 (at) nyu (dot) edu.
 	**Carles Domingo-Enrich**, Aram-Alexandre Pooladian.
 	TMLR 2023
 * [Multisample Flow Matching: Straightening Flows with Minibatch Couplings](https://arxiv.org/abs/2304.14772)
-  Aram-Alexandre Pooladian*, Heli Ben-Hamu*, **Carles Domingo-Enrich***, Brandon Amos, Yaron Lipman, Ricky Chen (*Equal contribution).
+  Aram-Alexandre Pooladian\*, Heli Ben-Hamu\*, **Carles Domingo-Enrich**\*, Brandon Amos, Yaron Lipman, Ricky Chen (\*Equal contribution).
   ICML 2023
 * [Compress then test: powerful kernel testing in near-linear time](https://arxiv.org/abs/2301.05974)
   **Carles Domingo-Enrich**, Raaz Dwivedi, Lester Mackey.
@@ -67,7 +67,7 @@ My email address is cd2754 (at) nyu (dot) edu.
   **Carles Domingo-Enrich**, Samy Jelassi, Arthur Mensch, Grant M. Rotskoff, Joan Bruna.
   NeurIPS 2020
 * [Extra-gradient with player sampling for faster Nash equilibrium finding](https://128.84.21.199/pdf/1905.12363.pdf)
-  Samy Jelassi*, **Carles Domingo-Enrich***, Damien Scieur, Arthur Mensch, Joan Bruna (*Equal contribution).
+  Samy Jelassi\*, **Carles Domingo-Enrich**\*, Damien Scieur, Arthur Mensch, Joan Bruna (\*Equal contribution).
   ICML 2020
 * [Outsourcing scalar products and matrix products on privacy-protected unencrypted data stored in untrusted clouds](https://www.sciencedirect.com/science/article/pii/S0020025516321752?via%3Dihub)
   Josep Domingo-Ferrer, Sara Ricci, **Carles Domingo-Enrich**.
