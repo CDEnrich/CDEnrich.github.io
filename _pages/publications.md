@@ -7,10 +7,10 @@ author_profile: true
 
 ## Preprints
 
-* [Length Generalization in Arithmetic Transformers](https://arxiv.org/abs/2306.15400)<br>
+* [Length generalization in arithmetic transformers](https://arxiv.org/abs/2306.15400)<br>
   Samy Jelassi, Stéphane d'Ascoli, **Carles Domingo-Enrich**, Yuhuai Wu, Yuanzhi Li, François Charton.
   Jun. 2023
-* [Open Problem: Learning with Variational Objectives on Measures](https://arxiv.org/abs/2306.11928)<br>
+* [Open problem: learning with variational objectives on measures](https://arxiv.org/abs/2306.11928)<br>
   Vivien Cabannes, **Carles Domingo-Enrich**.
   Jun. 2023
 * [Computing the variance of shuffling stochastic gradient algorithms via power spectral density analysis](https://arxiv.org/abs/2206.00632)<br>
@@ -28,16 +28,16 @@ author_profile: true
 
 ## Publications
 
-* [Neural Optimal Transport with Lagrangian Costs](https://openreview.net/pdf?id=myb0FKB8C9)<br> 
+* [Neural optimal transport with Lagrangian costs](https://openreview.net/pdf?id=myb0FKB8C9)<br> 
 Aram-Alexandre Pooladian, **Carles Domingo-Enrich**, Ricky Chen, Brandon Amos. 
 ICML Workshop on New Frontiers in Learning, Control, and Dynamical Systems, 2023
 * [An explicit expansion of the Kullback-Leibler divergence along its Fisher-Rao gradient flow](https://arxiv.org/abs/2302.12229)<br>
 	**Carles Domingo-Enrich**, Aram-Alexandre Pooladian.
 	TMLR 2023
-* [Multisample Flow Matching: Straightening Flows with Minibatch Couplings](https://arxiv.org/abs/2304.14772)<br>
+* [Multisample Flow Matching: straightening flows with minibatch couplings](https://arxiv.org/abs/2304.14772)<br>
   Aram-Alexandre Pooladian\*, Heli Ben-Hamu\*, **Carles Domingo-Enrich**\*, Brandon Amos, Yaron Lipman, Ricky Chen (\*Equal contribution).
   ICML 2023
-* [Compress then test: powerful kernel testing in near-linear time](https://arxiv.org/abs/2301.05974)<br>
+* [Compress Then Test: powerful kernel testing in near-linear time](https://arxiv.org/abs/2301.05974)<br>
   **Carles Domingo-Enrich**, Raaz Dwivedi, Lester Mackey.
   AISTATS 2023
 * [Learning with stochastic orders](https://arxiv.org/abs/2205.13684)<br>
