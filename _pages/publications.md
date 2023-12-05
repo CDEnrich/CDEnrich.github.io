@@ -7,6 +7,9 @@ author_profile: true
 
 ## Preprints
 
+* [Stochastic optimal control matching](https://arxiv.org/abs/2312.02027)<br>
+  Carles Domingo-Enrich, Jiequn Han, Brandon Amos, Joan Bruna, Ricky T. Q. Chen.
+  Dec. 2023
 * [Length generalization in arithmetic transformers](https://arxiv.org/abs/2306.15400)<br>
   Samy Jelassi, Stéphane d'Ascoli, **Carles Domingo-Enrich**, Yuhuai Wu, Yuanzhi Li, François Charton.
   Jun. 2023
