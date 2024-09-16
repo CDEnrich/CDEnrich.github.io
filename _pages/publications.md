@@ -7,6 +7,9 @@ author_profile: true
 
 ## Preprints
 
+* [Adjoint matching: fine-tuning flow and diffusion generative models with memoryless stochastic optimal control](https://arxiv.org/abs/2409.08861)<br>
+  **Carles Domingo-Enrich**, Michal Drozdzal, Brian Karrer, Ricky T. Q. Chen.
+  Sept. 2024
 * [Stochastic optimal control matching](https://arxiv.org/abs/2312.02027)<br>
   **Carles Domingo-Enrich**, Jiequn Han, Brandon Amos, Joan Bruna, Ricky T. Q. Chen.
   Dec. 2023
@@ -33,7 +36,7 @@ author_profile: true
 
 * [Neural optimal transport with Lagrangian costs](https://openreview.net/pdf?id=myb0FKB8C9)<br> 
 Aram-Alexandre Pooladian, **Carles Domingo-Enrich**, Ricky Chen, Brandon Amos. 
-ICML Workshop on New Frontiers in Learning, Control, and Dynamical Systems, 2023
+UAI, 2024
 * [An explicit expansion of the Kullback-Leibler divergence along its Fisher-Rao gradient flow](https://arxiv.org/abs/2302.12229)<br>
 	**Carles Domingo-Enrich**, Aram-Alexandre Pooladian.
 	TMLR 2023
