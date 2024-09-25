@@ -35,13 +35,13 @@ author_profile: true
   **Carles Domingo-Enrich**, Jiequn Han, Brandon Amos, Joan Bruna, Ricky T. Q. Chen.
   NeurIPS 2024
 * [Neural optimal transport with Lagrangian costs](https://openreview.net/pdf?id=myb0FKB8C9)<br> 
-Aram-Alexandre Pooladian, **Carles Domingo-Enrich**, Ricky Chen, Brandon Amos. 
+Aram-Alexandre Pooladian, **Carles Domingo-Enrich**, Ricky T. Q. Chen, Brandon Amos. 
 UAI, 2024
 * [An explicit expansion of the Kullback-Leibler divergence along its Fisher-Rao gradient flow](https://arxiv.org/abs/2302.12229)<br>
 	**Carles Domingo-Enrich**, Aram-Alexandre Pooladian.
 	TMLR 2023
 * [Multisample Flow Matching: straightening flows with minibatch couplings](https://arxiv.org/abs/2304.14772)<br>
-  Aram-Alexandre Pooladian\*, Heli Ben-Hamu\*, **Carles Domingo-Enrich**\*, Brandon Amos, Yaron Lipman, Ricky Chen (\*Equal contribution).
+  Aram-Alexandre Pooladian\*, Heli Ben-Hamu\*, **Carles Domingo-Enrich**\*, Brandon Amos, Yaron Lipman, Ricky T. Q. Chen (\*Equal contribution).
   ICML 2023
 * [Compress Then Test: powerful kernel testing in near-linear time](https://arxiv.org/abs/2301.05974)<br>
   **Carles Domingo-Enrich**, Raaz Dwivedi, Lester Mackey.
