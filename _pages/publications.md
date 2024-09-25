@@ -10,9 +10,6 @@ author_profile: true
 * [Adjoint matching: fine-tuning flow and diffusion generative models with memoryless stochastic optimal control](https://arxiv.org/abs/2409.08861)<br>
   **Carles Domingo-Enrich**, Michal Drozdzal, Brian Karrer, Ricky T. Q. Chen.
   Sept. 2024
-* [Stochastic optimal control matching](https://arxiv.org/abs/2312.02027)<br>
-  **Carles Domingo-Enrich**, Jiequn Han, Brandon Amos, Joan Bruna, Ricky T. Q. Chen.
-  Dec. 2023
 * [Length generalization in arithmetic transformers](https://arxiv.org/abs/2306.15400)<br>
   Samy Jelassi, Stéphane d'Ascoli, **Carles Domingo-Enrich**, Yuhuai Wu, Yuanzhi Li, François Charton.
   Jun. 2023
@@ -34,6 +31,9 @@ author_profile: true
 
 ## Publications
 
+* [Stochastic optimal control matching](https://arxiv.org/abs/2312.02027)<br>
+  **Carles Domingo-Enrich**, Jiequn Han, Brandon Amos, Joan Bruna, Ricky T. Q. Chen.
+  NeurIPS 2024
 * [Neural optimal transport with Lagrangian costs](https://openreview.net/pdf?id=myb0FKB8C9)<br> 
 Aram-Alexandre Pooladian, **Carles Domingo-Enrich**, Ricky Chen, Brandon Amos. 
 UAI, 2024
