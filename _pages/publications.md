@@ -8,7 +8,7 @@ author_profile: true
 ## Preprints
 
 * [A taxonomy of loss functions for stochastic optimal control](https://arxiv.org/pdf/2410.00345)<br>
-  **Carles Domingo-Enrich**
+  **Carles Domingo-Enrich**.
   Oct. 2024
 * [Adjoint matching: fine-tuning flow and diffusion generative models with memoryless stochastic optimal control](https://arxiv.org/abs/2409.08861)<br>
   **Carles Domingo-Enrich**, Michal Drozdzal, Brian Karrer, Ricky T. Q. Chen.
