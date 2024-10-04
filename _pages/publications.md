@@ -7,6 +7,9 @@ author_profile: true
 
 ## Preprints
 
+* [Towards deep learning sequence-structure co-generation for protein design](https://arxiv.org/abs/2410.01773)<br>
+  Chentong Wang, Sarah Alamdari, **Carles Domingo-Enrich**, Ava Amini, Kevin K. Yang
+  Oct. 2024
 * [A taxonomy of loss functions for stochastic optimal control](https://arxiv.org/pdf/2410.00345)<br>
   **Carles Domingo-Enrich**.
   Oct. 2024
