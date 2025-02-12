@@ -39,7 +39,7 @@ author_profile: true
 
 * [Adjoint matching: fine-tuning flow and diffusion generative models with memoryless stochastic optimal control](https://arxiv.org/abs/2409.08861)<br>
   **Carles Domingo-Enrich**, Michal Drozdzal, Brian Karrer, Ricky T. Q. Chen.
-  ICLR 2025 Spotlight
+  ICLR 2025, **Spotlight**
 * [Towards deep learning sequence-structure co-generation for protein design](https://arxiv.org/abs/2410.01773)<br>
   Chentong Wang, Sarah Alamdari, **Carles Domingo-Enrich**, Ava Amini, Kevin K. Yang.
   Current Opinion in Structural Biology, 2025
@@ -60,19 +60,19 @@ UAI 2024
   AISTATS 2023
 * [Learning with stochastic orders](https://arxiv.org/abs/2205.13684)<br>
   **Carles Domingo-Enrich**, Yair Schiff, Youssef Mroueh.
-  ICLR 2023
+  ICLR 2023, **Spotlight**
 * [Depth and feature learning are provably beneficial for neural network discriminators](https://arxiv.org/abs/2112.13867)<br>
   **Carles Domingo-Enrich**.
   COLT 2022
 * [Tighter sparse approximation bounds for ReLU neural networks](https://arxiv.org/abs/2110.03673)<br>
   **Carles Domingo-Enrich**, Youssef Mroueh.
-  ICLR 2022, **Spotlight**.
+  ICLR 2022, **Spotlight**
 * [Separation results between fixed-kernel and feature-learning probability metrics](https://arxiv.org/abs/2106.05739)<br>
   **Carles Domingo-Enrich**, Youssef Mroueh.
-  NeurIPS 2021, **Oral**.
+  NeurIPS 2021, **Oral**
 * [On energy-based models with overparametrized shallow neural networks](https://arxiv.org/abs/2104.07531.pdf)<br>
   **Carles Domingo-Enrich**, Alberto Bietti, Eric Vanden-Eijnden, Joan Bruna.
-  ICML 2021, **Long talk**.
+  ICML 2021, **Long talk**
 * [Average-case acceleration for bilinear games and normal matrices](https://arxiv.org/pdf/2010.02076.pdf)<br>
   **Carles Domingo-Enrich**, Damien Scieur, Fabian Pedregosa.
   ICLR 2021
