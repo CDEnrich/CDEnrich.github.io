@@ -7,9 +7,9 @@ author_profile: true
 
 ## Preprints
 
-* [Towards deep learning sequence-structure co-generation for protein design](https://arxiv.org/abs/2410.01773)<br>
-  Chentong Wang, Sarah Alamdari, **Carles Domingo-Enrich**, Ava Amini, Kevin K. Yang
-  Oct. 2024
+* [Cheap permutation testing](https://arxiv.org/abs/2502.07672)<br>
+  **Carles Domingo-Enrich**, Raaz Dwivedi, Lester Mackey.
+  Feb. 2025 
 * [A taxonomy of loss functions for stochastic optimal control](https://arxiv.org/pdf/2410.00345)<br>
   **Carles Domingo-Enrich**.
   Oct. 2024
@@ -37,12 +37,18 @@ author_profile: true
 
 ## Publications
 
+* [Adjoint matching: fine-tuning flow and diffusion generative models with memoryless stochastic optimal control](https://arxiv.org/abs/2409.08861)<br>
+  **Carles Domingo-Enrich**, Michal Drozdzal, Brian Karrer, Ricky T. Q. Chen.
+  ICLR 2025 Spotlight
+* [Towards deep learning sequence-structure co-generation for protein design](https://arxiv.org/abs/2410.01773)<br>
+  Chentong Wang, Sarah Alamdari, **Carles Domingo-Enrich**, Ava Amini, Kevin K. Yang.
+  Current Opinion in Structural Biology, 2025
 * [Stochastic optimal control matching](https://arxiv.org/abs/2312.02027)<br>
   **Carles Domingo-Enrich**, Jiequn Han, Brandon Amos, Joan Bruna, Ricky T. Q. Chen.
   NeurIPS 2024
 * [Neural optimal transport with Lagrangian costs](https://openreview.net/pdf?id=myb0FKB8C9)<br> 
 Aram-Alexandre Pooladian, **Carles Domingo-Enrich**, Ricky T. Q. Chen, Brandon Amos. 
-UAI, 2024
+UAI 2024
 * [An explicit expansion of the Kullback-Leibler divergence along its Fisher-Rao gradient flow](https://arxiv.org/abs/2302.12229)<br>
 	**Carles Domingo-Enrich**, Aram-Alexandre Pooladian.
 	TMLR 2023
