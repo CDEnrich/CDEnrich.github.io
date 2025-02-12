@@ -13,9 +13,6 @@ author_profile: true
 * [A taxonomy of loss functions for stochastic optimal control](https://arxiv.org/pdf/2410.00345)<br>
   **Carles Domingo-Enrich**.
   Oct. 2024
-* [Adjoint matching: fine-tuning flow and diffusion generative models with memoryless stochastic optimal control](https://arxiv.org/abs/2409.08861)<br>
-  **Carles Domingo-Enrich**, Michal Drozdzal, Brian Karrer, Ricky T. Q. Chen.
-  Sept. 2024
 * [Length generalization in arithmetic transformers](https://arxiv.org/abs/2306.15400)<br>
   Samy Jelassi, Stéphane d'Ascoli, **Carles Domingo-Enrich**, Yuhuai Wu, Yuanzhi Li, François Charton.
   Jun. 2023
