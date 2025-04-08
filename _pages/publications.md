@@ -7,6 +7,9 @@ author_profile: true
 
 ## Preprints
 
+* [Conditioning Diffusions Using Malliavin Calculus](https://arxiv.org/abs/2504.03461)<br>
+  Jakiw Pidstrigach, Elizabeth Baker, Carles Domingo-Enrich, George Deligiannidis, Nikolas Nüsken.
+  Apr. 2025
 * [Cheap permutation testing](https://arxiv.org/abs/2502.07672)<br>
   **Carles Domingo-Enrich**, Raaz Dwivedi, Lester Mackey.
   Feb. 2025 

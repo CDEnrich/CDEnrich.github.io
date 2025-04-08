@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-[Here](http://CDEnrich.github.io/files/cv_carles_domingo-enrich_oct_3_2024.pdf) is my CV. [Here](http://CDEnrich.github.io/files/cv_carles_domingo-enrich_oct_3_2024_short.pdf) is a shortened version.
+[Here](http://CDEnrich.github.io/files/cv_carles_domingo-enrich_apr_7_2025.pdf) is my CV. [Here](http://CDEnrich.github.io/files/cv_carles_domingo-enrich_apr_7_2025_short.pdf) is a shortened version.
 
