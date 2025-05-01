@@ -7,11 +7,6 @@ author_profile: true
 
 ## Preprints
 
-* [Adjoint Sampling: Highly Scalable Diffusion Samplers via Adjoint Matching](https://arxiv.org/abs/2504.11713)<br>
-  Aaron Havens, Benjamin Kurt Miller, Bing Yan, **Carles Domingo-Enrich**, Anuroop Sriram, Brandon Wood, Daniel Levine, Bin Hu, Brandon Amos, Brian Karrer, Xiang Fu, Guan-Horng Liu, Ricky T. Q. Chen.
-* [Conditioning Diffusions Using Malliavin Calculus](https://arxiv.org/abs/2504.03461)<br>
-  Jakiw Pidstrigach, Elizabeth Baker, **Carles Domingo-Enrich**, George Deligiannidis, Nikolas Nüsken.
-  Apr. 2025
 * [Cheap permutation testing](https://arxiv.org/abs/2502.07672)<br>
   **Carles Domingo-Enrich**, Raaz Dwivedi, Lester Mackey.
   Feb. 2025 
@@ -39,6 +34,12 @@ author_profile: true
 
 ## Publications
 
+* [Adjoint Sampling: Highly Scalable Diffusion Samplers via Adjoint Matching](https://arxiv.org/abs/2504.11713)<br>
+  Aaron Havens, Benjamin Kurt Miller, Bing Yan, **Carles Domingo-Enrich**, Anuroop Sriram, Brandon Wood, Daniel Levine, Bin Hu, Brandon Amos, Brian Karrer, Xiang Fu, Guan-Horng Liu, Ricky T. Q. Chen.
+ ICML 2025
+* [Conditioning Diffusions Using Malliavin Calculus](https://arxiv.org/abs/2504.03461)<br>
+  Jakiw Pidstrigach, Elizabeth Baker, **Carles Domingo-Enrich**, George Deligiannidis, Nikolas Nüsken.
+  ICML 2025
 * [Adjoint matching: fine-tuning flow and diffusion generative models with memoryless stochastic optimal control](https://arxiv.org/abs/2409.08861)<br>
   **Carles Domingo-Enrich**, Michal Drozdzal, Brian Karrer, Ricky T. Q. Chen.
   ICLR 2025, **Spotlight**
