@@ -42,7 +42,7 @@ author_profile: true
   ICML 2025
 * [Adjoint matching: fine-tuning flow and diffusion generative models with memoryless stochastic optimal control](https://arxiv.org/abs/2409.08861)<br>
   **Carles Domingo-Enrich**, Michal Drozdzal, Brian Karrer, Ricky T. Q. Chen.
-  ICLR 2025, **Spotlight**
+  ICLR 2025, **Spotlight**. Code here: [https://github.com/microsoft/soc-fine-tuning-sd](https://github.com/microsoft/soc-fine-tuning-sd)<br>
 * [Towards deep learning sequence-structure co-generation for protein design](https://arxiv.org/abs/2410.01773)<br>
   Chentong Wang, Sarah Alamdari, **Carles Domingo-Enrich**, Ava Amini, Kevin K. Yang.
   Current Opinion in Structural Biology, 2025

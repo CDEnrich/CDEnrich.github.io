@@ -12,4 +12,4 @@ In 2019 I obtained a B.S. in Mathematics and a B.S. in Engineering Physics from 
 
 My email address is _cd2754 (at) nyu (dot) edu_.
 
-Undergrad internship opportunities at MSR! If you are a rising junior or senior undergraduate student interested in working with me, apply here by Oct. 21, 2024, and mention my name: https://aka.ms/msr-ugrad.
+Excited to open source the code for Adjoint Matching --- as part of a new repo centered around reward fine-tuning via stochastic optimal control! [https://github.com/microsoft/soc-fine-tuning-sd](https://github.com/microsoft/soc-fine-tuning-sd)<br>
