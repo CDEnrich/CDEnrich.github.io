@@ -12,4 +12,6 @@ In 2019 I obtained a B.S. in Mathematics and a B.S. in Engineering Physics from 
 
 My email address is _cd2754 (at) nyu (dot) edu_.
 
-Excited to open source the code for Adjoint Matching --- as part of a new repo centered around reward fine-tuning via stochastic optimal control! [https://github.com/microsoft/soc-fine-tuning-sd](https://github.com/microsoft/soc-fine-tuning-sd)<br>
+Excited to open source the code for Adjoint Matching --- as part of a new repo centered around reward fine-tuning via stochastic optimal control! [https://github.com/microsoft/soc-fine-tuning-sd](https://github.com/microsoft/soc-fine-tuning-sd)
+
+Join our weekly [Generative Modeling & Sampling Seminar](https://sites.google.com/view/msrne-genai-sampling-seminar/home) at MSR NE (in-person attendance is available)! Fill out the form and check upcoming talks in the seminar website. <br>
