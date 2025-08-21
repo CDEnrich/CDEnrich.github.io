@@ -7,30 +7,15 @@ author_profile: true
 
 ## Preprints
 
+* [Trust Region Constrained Measure Transport in Path Space for Stochastic Optimal Control and Inference](https://arxiv.org/abs/2508.12511)<br>
+  Denis Blessing, Julius Berner\*, Lorenz Richter\*, **Carles Domingo-Enrich**\*, Yuanqi Du, Arash Vahdat, Gerhard Neumann (\*Equal contribution). 
+  Aug. 2025
+* [The Dayhoff Atlas: scaling sequence diversity for improved protein generation](https://www.biorxiv.org/content/10.1101/2025.07.21.665991v1)<br>
+  Kevin K. Yang, Sarah Alamdari, Alex J. Lee, Kaeli Kaymak-Loveless, Samir Char, Garyk Brixi, **Carles Domingo-Enrich**, Chentong Wang, Suyue Lyu, Nicolo Fusi, Neil Tenenholtz, Ava P. Amini.
+  Jul. 2025
 * [Cheap permutation testing](https://arxiv.org/abs/2502.07672)<br>
   **Carles Domingo-Enrich**, Raaz Dwivedi, Lester Mackey.
   Feb. 2025 
-* [A taxonomy of loss functions for stochastic optimal control](https://arxiv.org/pdf/2410.00345)<br>
-  **Carles Domingo-Enrich**.
-  Oct. 2024
-* [Length generalization in arithmetic transformers](https://arxiv.org/abs/2306.15400)<br>
-  Samy Jelassi, Stéphane d'Ascoli, **Carles Domingo-Enrich**, Yuhuai Wu, Yuanzhi Li, François Charton.
-  Jun. 2023
-* [Open problem: learning with variational objectives on measures](https://arxiv.org/abs/2306.11928)<br>
-  Vivien Cabannes, **Carles Domingo-Enrich**.
-  Jun. 2023
-* [Computing the variance of shuffling stochastic gradient algorithms via power spectral density analysis](https://arxiv.org/abs/2206.00632)<br>
-	**Carles Domingo-Enrich**.
-	Jun. 2022
-* [Auditing differential privacy in high dimensions with the kernel quantum Rényi divergence](https://arxiv.org/abs/2205.13941)<br>
-	**Carles Domingo-Enrich**, Youssef Mroueh.
-	May 2022
-* [Simultaneous transport evolution for minimax equilibria on measures](https://arxiv.org/abs/2202.06460)<br>
-	**Carles Domingo-Enrich**, Joan Bruna.
-	Feb. 2022
-* [Dual training of energy-based models with overparametrized shallow neural networks](https://arxiv.org/abs/2107.05134)<br>
-	**Carles Domingo-Enrich**, Alberto Bietti, Marylou Gabrié, Joan Bruna, Eric Vanden-Eijnden.
-	July 2021
 
 ## Publications
 
@@ -88,3 +73,27 @@ UAI 2024
 * [Outsourcing scalar products and matrix products on privacy-protected unencrypted data stored in untrusted clouds](https://www.sciencedirect.com/science/article/pii/S0020025516321752?via%3Dihub)<br>
   Josep Domingo-Ferrer, Sara Ricci, **Carles Domingo-Enrich**.
   Information Sciences, Vol. 436, pp. 320-342, Apr 2018
+
+## Technical reports
+
+* [A taxonomy of loss functions for stochastic optimal control](https://arxiv.org/pdf/2410.00345)<br>
+  **Carles Domingo-Enrich**.
+  Oct. 2024
+* [Length generalization in arithmetic transformers](https://arxiv.org/abs/2306.15400)<br>
+  Samy Jelassi, Stéphane d'Ascoli, **Carles Domingo-Enrich**, Yuhuai Wu, Yuanzhi Li, François Charton.
+  Jun. 2023
+* [Open problem: learning with variational objectives on measures](https://arxiv.org/abs/2306.11928)<br>
+  Vivien Cabannes, **Carles Domingo-Enrich**.
+  Jun. 2023
+* [Computing the variance of shuffling stochastic gradient algorithms via power spectral density analysis](https://arxiv.org/abs/2206.00632)<br>
+        **Carles Domingo-Enrich**.
+        Jun. 2022
+* [Auditing differential privacy in high dimensions with the kernel quantum Rényi divergence](https://arxiv.org/abs/2205.13941)<br>
+        **Carles Domingo-Enrich**, Youssef Mroueh.
+        May 2022
+* [Simultaneous transport evolution for minimax equilibria on measures](https://arxiv.org/abs/2202.06460)<br>
+        **Carles Domingo-Enrich**, Joan Bruna.
+        Feb. 2022
+* [Dual training of energy-based models with overparametrized shallow neural networks](https://arxiv.org/abs/2107.05134)<br>
+        **Carles Domingo-Enrich**, Alberto Bietti, Marylou Gabrié, Joan Bruna, Eric Vanden-Eijnden.
+        Jul. 2021
