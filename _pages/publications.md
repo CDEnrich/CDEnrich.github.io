@@ -8,7 +8,7 @@ author_profile: true
 ## Preprints
 
 * [Any-order flexible length masked diffusion](https://arxiv.org/abs/2509.01025)<br>
-  Jaeyeon Kim\*, Lee Cheuk-Kit\*, **Carles Domingo-Enrich**, Yilun Du, Sham Kakade, Timothy Ngotiaoco, Sitan Chen, Michael Albergo (\*Equal contribution).
+  Jaeyeon Kim\*, Lee Cheuk-Kit\*, **Carles Domingo-Enrich**, Yilun Du, Sham Kakade, Timothy Ngotiaoco, Sitan Chen, Michael Albergo (\*Equal contribution). Aug. 2025.
 * [The Dayhoff Atlas: scaling sequence diversity for improved protein generation](https://www.biorxiv.org/content/10.1101/2025.07.21.665991v1)<br>
   Kevin K. Yang, Sarah Alamdari, Alex J. Lee, Kaeli Kaymak-Loveless, Samir Char, Garyk Brixi, **Carles Domingo-Enrich**, Chentong Wang, Suyue Lyu, Nicolo Fusi, Neil Tenenholtz, Ava P. Amini.
   Jul. 2025
