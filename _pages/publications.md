@@ -7,9 +7,8 @@ author_profile: true
 
 ## Preprints
 
-* [Trust Region Constrained Measure Transport in Path Space for Stochastic Optimal Control and Inference](https://arxiv.org/abs/2508.12511)<br>
-  Denis Blessing, Julius Berner\*, Lorenz Richter\*, **Carles Domingo-Enrich**\*, Yuanqi Du, Arash Vahdat, Gerhard Neumann (\*Equal contribution). 
-  Aug. 2025
+* [Any-order flexible length masked diffusion](https://arxiv.org/abs/2509.01025)<br>
+  Jaeyeon Kim\*, Lee Cheuk-Kit\*, **Carles Domingo-Enrich**, Yilun Du, Sham Kakade, Timothy Ngotiaoco, Sitan Chen, Michael Albergo (\*Equal contribution).
 * [The Dayhoff Atlas: scaling sequence diversity for improved protein generation](https://www.biorxiv.org/content/10.1101/2025.07.21.665991v1)<br>
   Kevin K. Yang, Sarah Alamdari, Alex J. Lee, Kaeli Kaymak-Loveless, Samir Char, Garyk Brixi, **Carles Domingo-Enrich**, Chentong Wang, Suyue Lyu, Nicolo Fusi, Neil Tenenholtz, Ava P. Amini.
   Jul. 2025
@@ -19,10 +18,13 @@ author_profile: true
 
 ## Publications
 
-* [Adjoint Sampling: Highly Scalable Diffusion Samplers via Adjoint Matching](https://arxiv.org/abs/2504.11713)<br>
+* [Trust region constrained measure transport in path space for stochastic optimal control and inference](https://arxiv.org/abs/2508.12511)<br>
+  Denis Blessing, Julius Berner\*, Lorenz Richter\*, **Carles Domingo-Enrich**\*, Yuanqi Du, Arash Vahdat, Gerhard Neumann (\*Equal contribution).
+  NeurIPS 2025, **Spotlight**.
+* [Adjoint sampling: highly scalable diffusion samplers via adjoint matching](https://arxiv.org/abs/2504.11713)<br>
   Aaron Havens, Benjamin Kurt Miller, Bing Yan, **Carles Domingo-Enrich**, Anuroop Sriram, Brandon Wood, Daniel Levine, Bin Hu, Brandon Amos, Brian Karrer, Xiang Fu, Guan-Horng Liu, Ricky T. Q. Chen.
  ICML 2025
-* [Conditioning Diffusions Using Malliavin Calculus](https://arxiv.org/abs/2504.03461)<br>
+* [Conditioning diffusions using Malliavin calculus](https://arxiv.org/abs/2504.03461)<br>
   Jakiw Pidstrigach, Elizabeth Baker, **Carles Domingo-Enrich**, George Deligiannidis, Nikolas Nüsken.
   ICML 2025
 * [Adjoint matching: fine-tuning flow and diffusion generative models with memoryless stochastic optimal control](https://arxiv.org/abs/2409.08861)<br>
