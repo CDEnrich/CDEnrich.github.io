@@ -7,11 +7,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Senior Researcher at Microsoft Research New England, based in Cambridge, MA. In May 2024 I graduated from my PhD in Computer Science from NYU, where my advisor was Joan Bruna. I work on generative AI models (diffusion models, normalizing flows) and related topics at the intersection of machine learning, statistics and optimization. During my PhD, I interned at IBM Research and Microsoft Research, and was a Visiting Researcher at Meta FAIR Labs for two years. 
-In 2019 I obtained a B.S. in Mathematics and a B.S. in Engineering Physics from the Polytechnic University of Catalonia (UPC).  
+I am a Senior Researcher at Microsoft Research New England, based in Cambridge, MA. I work on generative AI models (diffusion models, normalizing flows, language models) and related topics at the intersection of machine learning, statistics, and AI for science. 
+My works include **Adjoint Matching**, a reward fine-tuning framework for flow models which has been extended to chemical and robotics applications, 
+and **Energy-Based Fine-Tuning**, a language model fine-tuning algorithm that relies on feature-based moment matching, outperforming SFT on perplexity and downstream performance, and matching RLVR on the latter.   
+I received my PhD in Computer Science from NYU, where I was advised by Joan Bruna.   
+During my PhD, I interned at IBM Research and Microsoft Research, and was a Visiting Researcher at Meta FAIR Labs for two years. 
+I obtained a B.S. in Mathematics and a B.S. in Engineering Physics from the Polytechnic University of Catalonia (UPC).  
 
 My email address is _cd2754 (at) nyu (dot) edu_.
 
-Excited to open source the code for Adjoint Matching --- as part of a new repo centered around reward fine-tuning via stochastic optimal control! [https://github.com/microsoft/soc-fine-tuning-sd](https://github.com/microsoft/soc-fine-tuning-sd)
+Join our weekly [Generative Modeling & Sampling Seminar](https://sites.google.com/view/msrne-genai-sampling-seminar/home) at MSR NE (in-person attendance is available)! Fill out the form and check upcoming talks in the seminar website. Watch recorded talks on our [YouTube channel](https://www.youtube.com/channel/UCMIpOZJJLeKpiiHJO8iGWgQ).<br>
 
-Join our weekly [Generative Modeling & Sampling Seminar](https://sites.google.com/view/msrne-genai-sampling-seminar/home) at MSR NE (in-person attendance is available)! Fill out the form and check upcoming talks in the seminar website. <br>
+## Selected works
+
+* [Matching Features, Not Tokens: Energy-Based Fine-Tuning of Language Models](https://arxiv.org/abs/2603.12248)
+  Samy Jelassi\*, Mujin Kwun\*, Rosie Zhao\*, Yuanzhi Li, Nicolo Fusi, Yilun Du, Sham M. Kakade, Carles Domingo-Enrich\* (\*Equal contribution).
+  arXiv preprint. March 2026. [Project website](https://energy-based-fine-tuning.github.io) and [code](https://github.com/sjelassi/ebft_openrlhf) available. 
+* [Adjoint matching: fine-tuning flow and diffusion generative models with memoryless stochastic optimal control](https://arxiv.org/abs/2409.08861)<br>
+  **Carles Domingo-Enrich**, Michal Drozdzal, Brian Karrer, Ricky T. Q. Chen.
+  ICLR 2025, **Spotlight**. Code here: [https://github.com/microsoft/soc-fine-tuning-sd](https://github.com/microsoft/soc-fine-tuning-sd)<br>

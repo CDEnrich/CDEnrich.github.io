@@ -7,8 +7,18 @@ author_profile: true
 
 ## Preprints
 
-* [Any-order flexible length masked diffusion](https://arxiv.org/abs/2509.01025)<br>
-  Jaeyeon Kim\*, Lee Cheuk-Kit\*, **Carles Domingo-Enrich**, Yilun Du, Sham Kakade, Timothy Ngotiaoco, Sitan Chen, Michael Albergo (\*Equal contribution). Aug. 2025.
+* [Matching Features, Not Tokens: Energy-Based Fine-Tuning of Language Models](https://arxiv.org/abs/2603.12248)
+  Samy Jelassi\*, Mujin Kwun\*, Rosie Zhao\*, Yuanzhi Li, Nicolo Fusi, Yilun Du, Sham M. Kakade, Carles Domingo-Enrich\* (\*Equal contribution).
+  March 2026
+* [Reject, Resample, Repeat: Understanding Parallel Reasoning in Language Model Inference](https://arxiv.org/abs/2603.07887)
+  Noah Golowich, Fan Chen, Dhruv Rohatgi, Raghav Singhal, **Carles Domingo-Enrich**, Dylan J. Foster, Akshay Krishnamurthy.
+  March 2026
+* [Test-time scaling of diffusions with flow maps](https://arxiv.org/pdf/2511.22688)<br>
+  Amirmojtaba Sabour\*, Michael S. Albergo\*, **Carles Domingo-Enrich**\*, Nicholas M. Boffi, Sanja Fidler, Karsten Kreis, Eric Vanden-Eijnden (\*Equal contribution).
+  Nov. 2025
+* [No Compute Left Behind: Rethinking Reasoning and Sampling with Masked Diffusion Models](https://arxiv.org/abs/2510.19990)<br>
+  Zachary Horvitz, Raghav Singhal, Hao Zou, **Carles Domingo-Enrich**, Zhou Yu, Rajesh Ranganath, Kathleen McKeown.
+  Oct. 2025
 * [The Dayhoff Atlas: scaling sequence diversity for improved protein generation](https://www.biorxiv.org/content/10.1101/2025.07.21.665991v1)<br>
   Kevin K. Yang, Sarah Alamdari, Alex J. Lee, Kaeli Kaymak-Loveless, Samir Char, Garyk Brixi, **Carles Domingo-Enrich**, Chentong Wang, Suyue Lyu, Nicolo Fusi, Neil Tenenholtz, Ava P. Amini.
   Jul. 2025
@@ -18,9 +28,14 @@ author_profile: true
 
 ## Publications
 
+* [Any-order flexible length masked diffusion](https://arxiv.org/abs/2509.01025)<br>
+  Jaeyeon Kim\*, Lee Cheuk-Kit\*, **Carles Domingo-Enrich**, Yilun Du, Sham Kakade, Timothy Ngotiaoco, Sitan Chen, Michael Albergo (\*Equal contribution). ICLR 2026.
 * [Trust region constrained measure transport in path space for stochastic optimal control and inference](https://arxiv.org/abs/2508.12511)<br>
   Denis Blessing, Julius Berner\*, Lorenz Richter\*, **Carles Domingo-Enrich**\*, Yuanqi Du, Arash Vahdat, Gerhard Neumann (\*Equal contribution).
   NeurIPS 2025, **Spotlight**.
+* [Value Gradient Guidance for Flow Matching Alignment](https://arxiv.org/abs/2512.05116)<br>
+  Zhen Liu, Tim Z. Xiao, **Carles Domingo-Enrich**, Weiyang Liu, Dinghuai Zhang.
+  NeurIPS 2025
 * [Adjoint sampling: highly scalable diffusion samplers via adjoint matching](https://arxiv.org/abs/2504.11713)<br>
   Aaron Havens, Benjamin Kurt Miller, Bing Yan, **Carles Domingo-Enrich**, Anuroop Sriram, Brandon Wood, Daniel Levine, Bin Hu, Brandon Amos, Brian Karrer, Xiang Fu, Guan-Horng Liu, Ricky T. Q. Chen.
  ICML 2025
