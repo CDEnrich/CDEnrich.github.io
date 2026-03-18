@@ -8,7 +8,7 @@ author_profile: true
 ## Preprints
 
 * [Matching Features, Not Tokens: Energy-Based Fine-Tuning of Language Models](https://arxiv.org/abs/2603.12248)
-  Samy Jelassi\*, Mujin Kwun\*, Rosie Zhao\*, Yuanzhi Li, Nicolo Fusi, Yilun Du, Sham M. Kakade, Carles Domingo-Enrich\* (\*Equal contribution).
+  Samy Jelassi\*, Mujin Kwun\*, Rosie Zhao\*, Yuanzhi Li, Nicolo Fusi, Yilun Du, Sham M. Kakade, **Carles Domingo-Enrich**\* (\*Equal contribution).
   March 2026
 * [Reject, Resample, Repeat: Understanding Parallel Reasoning in Language Model Inference](https://arxiv.org/abs/2603.07887)
   Noah Golowich, Fan Chen, Dhruv Rohatgi, Raghav Singhal, **Carles Domingo-Enrich**, Dylan J. Foster, Akshay Krishnamurthy.
