@@ -18,7 +18,7 @@ I obtained a B.S. in Mathematics and a B.S. in Engineering Physics from the Poly
 
 My email address is _cd2754 (at) nyu (dot) edu_.
 
-Join our weekly [Generative Modeling & Sampling Seminar](https://sites.google.com/view/msrne-genai-sampling-seminar/home) at MSR NE (in-person attendance is available)! Fill out the form and check upcoming talks in the seminar website. Watch recorded talks on our [YouTube channel](https://www.youtube.com/channel/UCMIpOZJJLeKpiiHJO8iGWgQ).<br>
+Join our weekly [Generative Modeling & Sampling Seminar](https://sites.google.com/view/msrne-genai-sampling-seminar/home) at MSR New England, with the option to attend in person. Fill out the form and check upcoming talks on the seminar website, and watch recorded talks on our [YouTube channel](https://www.youtube.com/channel/UCMIpOZJJLeKpiiHJO8iGWgQ).<br>
 
 ## Selected works
 
