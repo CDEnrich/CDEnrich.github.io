@@ -7,6 +7,10 @@ author_profile: true
 
 ## Preprints
 
+* [Rare Event Analysis via Stochastic Optimal Control](https://arxiv.org/abs/2604.13213)<br>
+  Yuanqi Du, Jiajun He, Dinghuai Zhang, Eric Vanden-Eijnden, **Carles Domingo-Enrich**. April 2026.
+* [Adjoint Matching through the Lens of the Stochastic Maximum Principle in Optimal Control]<br>
+  **Carles Domingo-Enrich**, Jiequn Han. April 2026
 * [Matching Features, Not Tokens: Energy-Based Fine-Tuning of Language Models](https://arxiv.org/abs/2603.12248)<br>
   Samy Jelassi\*, Mujin Kwun\*, Rosie Zhao\*, Yuanzhi Li, Nicolo Fusi, Yilun Du, Sham M. Kakade, **Carles Domingo-Enrich**\* (\*Equal contribution).
   March 2026

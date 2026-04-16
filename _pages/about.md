@@ -22,6 +22,8 @@ Join our weekly [Generative Modeling & Sampling Seminar](https://sites.google.co
 
 ## Selected works
 
+* [Rare Event Analysis via Stochastic Optimal Control](https://arxiv.org/abs/2604.13213)<br>
+  Yuanqi Du, Jiajun He, Dinghuai Zhang, Eric Vanden-Eijnden, **Carles Domingo-Enrich**. arXiv preprint, April 2026.
 * [Matching Features, Not Tokens: Energy-Based Fine-Tuning of Language Models](https://arxiv.org/abs/2603.12248)<br>
   Samy Jelassi\*, Mujin Kwun\*, Rosie Zhao\*, Yuanzhi Li, Nicolo Fusi, Yilun Du, Sham M. Kakade, **Carles Domingo-Enrich**\* (\*Equal contribution).
   arXiv preprint, March 2026. [Project website](https://energy-based-fine-tuning.github.io) and [code](https://github.com/sjelassi/ebft_openrlhf) available. 
