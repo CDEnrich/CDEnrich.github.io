@@ -7,8 +7,10 @@ author_profile: true
 
 ## Preprints
 
+* [Reinforce Adjoint Matching: Scaling RL Post-Training of Diffusion and Flow-Matching Models](https://arxiv.org/abs/2605.10759)<br>
+  Andreas Bergmeister, Stefanie Jegelka, Nikolas Nüsken, **Carles Domingo-Enrich**\*, Jakiw Pidstrigach\* (\*Senior authors). May 2026
 * [Rare Event Analysis via Stochastic Optimal Control](https://arxiv.org/abs/2604.13213)<br>
-  Yuanqi Du, Jiajun He, Dinghuai Zhang, Eric Vanden-Eijnden, **Carles Domingo-Enrich**. April 2026.
+  Yuanqi Du, Jiajun He, Dinghuai Zhang, Eric Vanden-Eijnden, **Carles Domingo-Enrich**. April 2026
 * [Adjoint Matching through the Lens of the Stochastic Maximum Principle in Optimal Control](https://arxiv.org/abs/2604.08580)<br>
   **Carles Domingo-Enrich**, Jiequn Han. April 2026
 * [Matching Features, Not Tokens: Energy-Based Fine-Tuning of Language Models](https://arxiv.org/abs/2603.12248)<br>
@@ -97,6 +99,9 @@ UAI 2024
 
 ## Technical reports
 
+* [A unified perspective on fine-tuning and sampling with diffusion and flow models](https://arxiv.org/abs/2605.00229)<br>
+  **Carles Domingo-Enrich**, Yuanqi Du, Michael S. Albergo.
+  Apr. 2026
 * [A taxonomy of loss functions for stochastic optimal control](https://arxiv.org/pdf/2410.00345)<br>
   **Carles Domingo-Enrich**.
   Oct. 2024
