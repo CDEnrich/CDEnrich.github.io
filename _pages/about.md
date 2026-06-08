@@ -18,7 +18,11 @@ I obtained a B.S. in Mathematics and a B.S. in Engineering Physics from the Poly
 
 My email address is _cd2754 (at) nyu (dot) edu_.
 
-Join our weekly [Generative Modeling & Sampling Seminar](https://sites.google.com/view/msrne-genai-sampling-seminar/home) at MSR New England, with the option to attend in person. Fill out the form and check upcoming talks on the seminar website, and watch recorded talks on our [YouTube channel](https://www.youtube.com/channel/UCMIpOZJJLeKpiiHJO8iGWgQ).<br>
+Join our weekly [Generative Modeling & Sampling Seminar](https://www.microsoft.com/en-us/research/event/microsoft-research-new-england-generative-modeling-sampling-seminar/) at MSR New England, with the option to attend in person. 
+Check upcoming talks and watch recorded talks an the seminar website.
+Fill out this [form](https://forms.microsoft.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR4WjQ2YizENDqp5GILC1AkdUOURYQ09DTUxQVUhPNU9YSktWWjRCOUJGVS4u&route=shorturl) if you want to join the distribution list.
+ 
+We are also hosting a [Generative Modeling & Sampling Summer Workshop](https://www.microsoft.com/en-us/research/event/msrne-generative-modeling-sampling-workshop/) on August 10-11, 2026, at our office in Cambridge, MA. Register on the website if you want to attend!
 
 ## Selected works
 
