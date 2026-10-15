@@ -26,6 +26,12 @@ We are also hosting a [Generative Modeling & Sampling Summer Workshop](https://w
 
 ## Selected works
 
+* [JANUS: A Multi-modal Foundation Neural Sampler for Disordered Materials](https://arxiv.org/abs/2608.19116)<br>
+  Denis Blessing\*, Mouyang Cheng\*, Maximilian Schebek, Jutta Rogal, Mingda Li, **Carles Domingo-Enrich**†, Yuanqi Du†.
+  arXiv preprint, August 2026. A multimodal neural sampler coupling continuous and discrete diffusion for thermodynamic sampling and inverse design of disordered materials.
+* [ATLAS: A Foundation Neural Sampler for Amorphous Materials](https://arxiv.org/abs/2607.19198)<br>
+  Mouyang Cheng\*, Denis Blessing\*, Botao Yu, Gerhard Neumann, Mingda Li, **Carles Domingo-Enrich**†, Yuanqi Du†.
+  arXiv preprint, July 2026. A diffusion-based neural sampler for sampling, steering, and designing amorphous materials directly from energy evaluations.
 * [Rare Event Analysis via Stochastic Optimal Control](https://arxiv.org/abs/2604.13213)<br>
   Yuanqi Du, Jiajun He, Dinghuai Zhang, Eric Vanden-Eijnden, **Carles Domingo-Enrich**. arXiv preprint, April 2026. Video [here](https://www.microsoft.com/en-us/research/video/rare-event-analysis-via-stochastic-optimal-control/).
 * [Matching Features, Not Tokens: Energy-Based Fine-Tuning of Language Models](https://arxiv.org/abs/2603.12248)<br>

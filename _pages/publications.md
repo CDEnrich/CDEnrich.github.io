@@ -7,33 +7,50 @@ author_profile: true
 
 ## Preprints
 
-* [Reinforce Adjoint Matching: Scaling RL Post-Training of Diffusion and Flow-Matching Models](https://arxiv.org/abs/2605.10759)<br>
-  Andreas Bergmeister, Stefanie Jegelka, Nikolas Nüsken, **Carles Domingo-Enrich**\*, Jakiw Pidstrigach\* (\*Senior authors). May 2026
+* [Fixed-point neural samplers on discrete spaces](https://arxiv.org/abs/2610.01739)<br>
+  Jiajun He, Denis Blessing, Mouyang Cheng, Yuanqi Du, **Carles Domingo-Enrich**.
+  Oct. 2026
+* [Bigger Text Encoders Can Hurt CLIP Zero-Shot Performance](https://arxiv.org/abs/2609.05730)<br>
+  Samir Char, **Carles Domingo-Enrich**, Randall Balestriero.
+  Sept. 2026
+* [JANUS: A Multi-modal Foundation Neural Sampler for Disordered Materials](https://arxiv.org/abs/2608.19116)<br>
+  Denis Blessing\*, Mouyang Cheng\*, Maximilian Schebek, Jutta Rogal, Mingda Li, **Carles Domingo-Enrich**†, Yuanqi Du†.
+  Aug. 2026
+* [ATLAS: A Foundation Neural Sampler for Amorphous Materials](https://arxiv.org/abs/2607.19198)<br>
+  Mouyang Cheng\*, Denis Blessing\*, Botao Yu, Gerhard Neumann, Mingda Li, **Carles Domingo-Enrich**†, Yuanqi Du†.
+  Jul. 2026
 * [Rare Event Analysis via Stochastic Optimal Control](https://arxiv.org/abs/2604.13213)<br>
   Yuanqi Du, Jiajun He, Dinghuai Zhang, Eric Vanden-Eijnden, **Carles Domingo-Enrich**. April 2026
-* [Adjoint Matching through the Lens of the Stochastic Maximum Principle in Optimal Control](https://arxiv.org/abs/2604.08580)<br>
-  **Carles Domingo-Enrich**, Jiequn Han. April 2026
 * [Matching Features, Not Tokens: Energy-Based Fine-Tuning of Language Models](https://arxiv.org/abs/2603.12248)<br>
   Samy Jelassi\*, Mujin Kwun\*, Rosie Zhao\*, Yuanzhi Li, Nicolo Fusi, Yilun Du, Sham M. Kakade, **Carles Domingo-Enrich**\* (\*Equal contribution).
   March 2026
-* [Reject, Resample, Repeat: Understanding Parallel Reasoning in Language Model Inference](https://arxiv.org/abs/2603.07887)<br>
-  Noah Golowich, Fan Chen, Dhruv Rohatgi, Raghav Singhal, **Carles Domingo-Enrich**, Dylan J. Foster, Akshay Krishnamurthy.
-  March 2026
-* [Test-time scaling of diffusions with flow maps](https://arxiv.org/pdf/2511.22688)<br>
-  Amirmojtaba Sabour\*, Michael S. Albergo\*, **Carles Domingo-Enrich**\*, Nicholas M. Boffi, Sanja Fidler, Karsten Kreis, Eric Vanden-Eijnden (\*Equal contribution).
-  Nov. 2025
-* [No Compute Left Behind: Rethinking Reasoning and Sampling with Masked Diffusion Models](https://arxiv.org/abs/2510.19990)<br>
-  Zachary Horvitz, Raghav Singhal, Hao Zou, **Carles Domingo-Enrich**, Zhou Yu, Rajesh Ranganath, Kathleen McKeown.
-  Oct. 2025
 * [The Dayhoff Atlas: scaling sequence diversity for improved protein generation](https://www.biorxiv.org/content/10.1101/2025.07.21.665991v1)<br>
   Kevin K. Yang, Sarah Alamdari, Alex J. Lee, Kaeli Kaymak-Loveless, Samir Char, Garyk Brixi, **Carles Domingo-Enrich**, Chentong Wang, Suyue Lyu, Nicolo Fusi, Neil Tenenholtz, Ava P. Amini.
   Jul. 2025
-* [Cheap permutation testing](https://arxiv.org/abs/2502.07672)<br>
-  **Carles Domingo-Enrich**, Raaz Dwivedi, Lester Mackey.
-  Feb. 2025 
 
 ## Publications
 
+* [Free energy Estimation on Any State Space](https://arxiv.org/abs/2605.31063)<br>
+  Jiajun He, Zijing Ou, Francisco Vargas, Yingzhen Li, José Miguel Hernández-Lobato, **Carles Domingo-Enrich**, Yuanqi Du.
+  NeurIPS 2026
+* [Reinforce Adjoint Matching: Scaling RL Post-Training of Diffusion and Flow-Matching Models](https://arxiv.org/abs/2605.10759)<br>
+  Andreas Bergmeister, Stefanie Jegelka, Nikolas Nüsken, **Carles Domingo-Enrich**\*, Jakiw Pidstrigach\* (\*Senior authors).
+  NeurIPS 2026
+* [Adjoint Matching through the Lens of the Stochastic Maximum Principle in Optimal Control](https://arxiv.org/abs/2604.08580)<br>
+  **Carles Domingo-Enrich**, Jiequn Han.
+  TMLR 2026
+* [Reject, Resample, Repeat: Understanding Parallel Reasoning in Language Model Inference](https://arxiv.org/abs/2603.07887)<br>
+  Noah Golowich, Fan Chen, Dhruv Rohatgi, Raghav Singhal, **Carles Domingo-Enrich**, Dylan J. Foster, Akshay Krishnamurthy.
+  NeurIPS 2026
+* [Test-time scaling of diffusions with flow maps](https://arxiv.org/abs/2511.22688)<br>
+  Amirmojtaba Sabour\*, Michael S. Albergo\*, **Carles Domingo-Enrich**\*, Nicholas M. Boffi, Sanja Fidler, Karsten Kreis, Eric Vanden-Eijnden (\*Equal contribution).
+  NeurIPS 2026
+* [Rethinking Reasoning with MDLMs: Early Exits, Post-hoc Reasoning, and Beyond](https://arxiv.org/abs/2510.19990)<br>
+  Zachary Horvitz, Raghav Singhal, Hao Zou, **Carles Domingo-Enrich**, Zhou Yu, Rajesh Ranganath, Kathleen McKeown.
+  COLM 2026
+* [Cheap Permutation Testing](https://arxiv.org/abs/2502.07672)<br>
+  **Carles Domingo-Enrich**, Raaz Dwivedi, Lester Mackey.
+  Annals of Statistics (to appear)
 * [Any-order flexible length masked diffusion](https://arxiv.org/abs/2509.01025)<br>
   Jaeyeon Kim\*, Lee Cheuk-Kit\*, **Carles Domingo-Enrich**, Yilun Du, Sham Kakade, Timothy Ngotiaoco, Sitan Chen, Michael Albergo (\*Equal contribution). ICLR 2026.
 * [Trust region constrained measure transport in path space for stochastic optimal control and inference](https://arxiv.org/abs/2508.12511)<br>
