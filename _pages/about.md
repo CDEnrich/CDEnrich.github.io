@@ -33,10 +33,11 @@ We are also hosting a [Generative Modeling & Sampling Summer Workshop](https://w
   Mouyang Cheng\*, Denis Blessing\*, Botao Yu, Gerhard Neumann, Mingda Li, **Carles Domingo-Enrich**†, Yuanqi Du†.
   arXiv preprint, July 2026. A diffusion-based neural sampler for sampling, steering, and designing amorphous materials directly from energy evaluations.
 * [Rare Event Analysis via Stochastic Optimal Control](https://arxiv.org/abs/2604.13213)<br>
-  Yuanqi Du, Jiajun He, Dinghuai Zhang, Eric Vanden-Eijnden, **Carles Domingo-Enrich**. arXiv preprint, April 2026. Video [here](https://www.microsoft.com/en-us/research/video/rare-event-analysis-via-stochastic-optimal-control/).
+  Yuanqi Du, Jiajun He, Dinghuai Zhang, Eric Vanden-Eijnden, **Carles Domingo-Enrich**.
+  arXiv preprint, April 2026. A stochastic optimal-control framework for learning committor functions and sampling reactive trajectories to estimate reaction rates and equilibrium constants. Video [here](https://www.microsoft.com/en-us/research/video/rare-event-analysis-via-stochastic-optimal-control/).
 * [Matching Features, Not Tokens: Energy-Based Fine-Tuning of Language Models](https://arxiv.org/abs/2603.12248)<br>
-  Samy Jelassi\*, Mujin Kwun\*, Rosie Zhao\*, Yuanzhi Li, Nicolo Fusi, Yilun Du, Sham M. Kakade, **Carles Domingo-Enrich**\* (\*Equal contribution).
-  arXiv preprint, March 2026. [Project website](https://energy-based-fine-tuning.github.io), [code](https://github.com/sjelassi/ebft_openrlhf), and [video](https://youtu.be/ltx057i2bmU). 
+  Samy Jelassi\*, Mujin Kwun\*, Rosie Zhao\*, Yuanzhi Li, Nicolo Fusi, Yilun Du, Sham M. Kakade, **Carles Domingo-Enrich**\*.
+  arXiv preprint, March 2026. Fine-tunes language models by matching sequence-level feature statistics, providing dense semantic feedback without a task-specific verifier or preference model. [Project website](https://energy-based-fine-tuning.github.io), [code](https://github.com/sjelassi/ebft_openrlhf), and [video](https://youtu.be/ltx057i2bmU).
 * [Adjoint matching: fine-tuning flow and diffusion generative models with memoryless stochastic optimal control](https://arxiv.org/abs/2409.08861)<br>
   **Carles Domingo-Enrich**, Michal Drozdzal, Brian Karrer, Ricky T. Q. Chen.
-  ICLR 2025, Spotlight. Code here: [https://github.com/microsoft/soc-fine-tuning-sd](https://github.com/microsoft/soc-fine-tuning-sd)<br>
+  ICLR 2025, Spotlight. A reward fine-tuning framework for flow and diffusion models that turns stochastic optimal control into regression under a memoryless noise schedule. Code here: [https://github.com/microsoft/soc-fine-tuning-sd](https://github.com/microsoft/soc-fine-tuning-sd)<br>

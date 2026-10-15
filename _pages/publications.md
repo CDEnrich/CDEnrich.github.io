@@ -22,7 +22,7 @@ author_profile: true
 * [Rare Event Analysis via Stochastic Optimal Control](https://arxiv.org/abs/2604.13213)<br>
   Yuanqi Du, Jiajun He, Dinghuai Zhang, Eric Vanden-Eijnden, **Carles Domingo-Enrich**. April 2026
 * [Matching Features, Not Tokens: Energy-Based Fine-Tuning of Language Models](https://arxiv.org/abs/2603.12248)<br>
-  Samy Jelassi\*, Mujin Kwun\*, Rosie Zhao\*, Yuanzhi Li, Nicolo Fusi, Yilun Du, Sham M. Kakade, **Carles Domingo-Enrich**\* (\*Equal contribution).
+  Samy Jelassi\*, Mujin Kwun\*, Rosie Zhao\*, Yuanzhi Li, Nicolo Fusi, Yilun Du, Sham M. Kakade, **Carles Domingo-Enrich**\*.
   March 2026
 * [The Dayhoff Atlas: scaling sequence diversity for improved protein generation](https://www.biorxiv.org/content/10.1101/2025.07.21.665991v1)<br>
   Kevin K. Yang, Sarah Alamdari, Alex J. Lee, Kaeli Kaymak-Loveless, Samir Char, Garyk Brixi, **Carles Domingo-Enrich**, Chentong Wang, Suyue Lyu, Nicolo Fusi, Neil Tenenholtz, Ava P. Amini.
